@@ -9,3 +9,6 @@ INSTRUÇÕES:
 2. Local de Entrega: Repositório pessoal para a manutenção do controle de versão dos artefatos da disciplina.
 3. Data da Entrega: 25/02/2022 às 23h59min.
 4. Critério de Aceitação: Aquivo entregue, conforme solicitado.
+
+
+**Atividade entregue sem apresentar o que foi solicitado**

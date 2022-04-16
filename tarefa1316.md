@@ -12,3 +12,5 @@ INSTRUÇÕES:
 1. Esta tarefa é individual.
 2. Criar uma pasta no seu repositório pessoal referente à disciplina, no github, na _branch master_, como o nome aula004. Fazer o _commit_ deste arquivo nesta pasta.
 3. A data limite para concluir esta tarefa é dia 25/01/2022, as 23h59min.
+
+**Tarefa entregue sem apresentar o que foi solicitado**
