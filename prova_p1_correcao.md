@@ -9,8 +9,8 @@
 #### <p style="text-align: center;">Gilmar Ferreira Arantes</p>
 ####  <p style="text-align: center;"> Prova P1 - 16/02/2022</p>
 
-Matrícula:
-Nome:
+Matrícula: 201611901  
+Nome: Luciano de souza mendes 
 
 1. (**2.00**) Você é o encarregado da área de desenvolvimento de software da sua empresa e foi convidado para coordenar os trabalhos necessários para migrar o banco de dados do _Oracle_ para o _Postgresql_. Sob a perspectiva das "Técnicas para a Resolução de Problemas", descreva pelo menos cinco atividades imprescindíveis neste trabalho.
 
